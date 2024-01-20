@@ -11,8 +11,9 @@ Independent developer with a degree in computer science and telecommunications. 
 ### Socials
 
 
-<img align="left" alt="Twitter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" href="https://twitter.com/Ant0_x3"/>
-          
+<a href="https://twitter.com/Ant0_x3" <img align="left" alt="Twitter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" /> /a>
+
+#
 ---
 
 ### Skills
