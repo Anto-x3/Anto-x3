@@ -14,7 +14,7 @@ Independent developer with a degree in computer science and telecommunications. 
 <p><a href="https://twitter.com/Ant0_x3"> <img align="left" alt="Twitter" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />  @Anto_x3 </p>
 <p><a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJTLpsLbJqsLXngXxGGhzZpjgQVcqdjzWjfptKtJsClLdRdbdbwJFsmFGCZPMNlkPmGkRkg"> <img align="left" alt="Gmail" width="20px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" /> antonellolaudato@gmail.com </p>
 
-#
+
 ---
 
 ### Skills
