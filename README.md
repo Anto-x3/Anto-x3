@@ -8,6 +8,7 @@ Independent developer with a degree in computer science and telecommunications. 
   <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 </p>
 
+---
 
 ### 🧰 Languages and Tools
 
@@ -25,6 +26,7 @@ Independent developer with a degree in computer science and telecommunications. 
 <img align="left" alt="MySql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" alt="Vsc" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
 <br />
+#
 
 ### 📊 Stats
 
