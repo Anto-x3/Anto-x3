@@ -39,6 +39,6 @@ Independent developer with a degree in computer science and telecommunications. 
 
 ### 📊 Stats
 
-![Antox3's GitHub stats](https://github-readme-stats.vercel.app/api?username=anto-x3&show_icons=true&theme=algolia)
+<a href="https://github.com/Anto-x3">![Antox3's GitHub stats](https://github-readme-stats.vercel.app/api?username=anto-x3&show_icons=true&theme=algolia)
 
 #
