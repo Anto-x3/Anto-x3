@@ -1,6 +1,6 @@
-# 👋 Antox3
+# 👾 Antox3 
 
-**`Developer`**
+**`Developer 🎮`**
 
 Independent developer with a degree in computer science and telecommunications. I build my vision of the digital world one step at a time. Each coding project starts from scratch, from planning and design to solving concrete problems.
 
