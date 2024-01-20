@@ -29,7 +29,6 @@ Independent developer with a degree in computer science and telecommunications. 
 
 #
 
--
 
 ### 📊 Stats
 
